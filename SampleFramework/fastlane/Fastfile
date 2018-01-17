@@ -1,0 +1,6 @@
+lane :deadios do
+  scan(
+    code_coverage: true,
+    open_report: true
+  )
+end
